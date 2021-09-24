@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.btn{
+  height: 20px;
+  width: 100px;
+  margin-top: 20px ;
+  background-color: red;
+}
+
+.div_block{
+  background-color: white;
+  color: black;
+}
+
+img{
+   height: 10%;
+   width: 20%;
+
+}
